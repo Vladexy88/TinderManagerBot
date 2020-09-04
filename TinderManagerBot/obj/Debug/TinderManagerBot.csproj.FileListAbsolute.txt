@@ -1,0 +1,17 @@
+C:\Users\xaNe\source\repos\TinderManagerBot\TinderManagerBot\obj\Debug\TinderManagerBot.csprojAssemblyReference.cache
+C:\Users\xaNe\source\repos\TinderManagerBot\TinderManagerBot\obj\Debug\MainWindow.g.cs
+C:\Users\xaNe\source\repos\TinderManagerBot\TinderManagerBot\obj\Debug\App.g.cs
+C:\Users\xaNe\source\repos\TinderManagerBot\TinderManagerBot\obj\Debug\TinderManagerBot_MarkupCompile.cache
+C:\Users\xaNe\source\repos\TinderManagerBot\TinderManagerBot\obj\Debug\TinderManagerBot_MarkupCompile.lref
+C:\Users\xaNe\source\repos\TinderManagerBot\TinderManagerBot\bin\Debug\TinderManagerBot.exe.config
+C:\Users\xaNe\source\repos\TinderManagerBot\TinderManagerBot\bin\Debug\TinderManagerBot.exe
+C:\Users\xaNe\source\repos\TinderManagerBot\TinderManagerBot\bin\Debug\TinderManagerBot.pdb
+C:\Users\xaNe\source\repos\TinderManagerBot\TinderManagerBot\bin\Debug\Newtonsoft.Json.dll
+C:\Users\xaNe\source\repos\TinderManagerBot\TinderManagerBot\bin\Debug\Newtonsoft.Json.xml
+C:\Users\xaNe\source\repos\TinderManagerBot\TinderManagerBot\obj\Debug\MainWindow.baml
+C:\Users\xaNe\source\repos\TinderManagerBot\TinderManagerBot\obj\Debug\TinderManagerBot.g.resources
+C:\Users\xaNe\source\repos\TinderManagerBot\TinderManagerBot\obj\Debug\TinderManagerBot.Properties.Resources.resources
+C:\Users\xaNe\source\repos\TinderManagerBot\TinderManagerBot\obj\Debug\TinderManagerBot.csproj.GenerateResource.cache
+C:\Users\xaNe\source\repos\TinderManagerBot\TinderManagerBot\obj\Debug\TinderManagerBot.csproj.CopyComplete
+C:\Users\xaNe\source\repos\TinderManagerBot\TinderManagerBot\obj\Debug\TinderManagerBot.exe
+C:\Users\xaNe\source\repos\TinderManagerBot\TinderManagerBot\obj\Debug\TinderManagerBot.pdb
